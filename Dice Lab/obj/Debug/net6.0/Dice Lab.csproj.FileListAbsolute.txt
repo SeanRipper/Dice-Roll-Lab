@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\bin\Debug\net6.0\Dice Lab.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\bin\Debug\net6.0\Dice Lab.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\bin\Debug\net6.0\Dice Lab.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\bin\Debug\net6.0\Dice Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\bin\Debug\net6.0\Dice Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\Dice Lab.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\Dice Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\Dice Lab.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\Dice Lab.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\Dice Lab.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\Dice Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\refint\Dice Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\Dice Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\Dice Lab.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Labs\Dice Lab\Dice Lab\obj\Debug\net6.0\ref\Dice Lab.dll
